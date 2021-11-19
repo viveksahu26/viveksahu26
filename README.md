@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 
 ![Vivek github stats](https://github-readme-stats.vercel.app/api?username=viveksahu26)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksahu26)](https://github.com/viveksahu26/github-readme-stats)
