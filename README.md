@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I love to know the reason behind concepts. And more satisfying when I performed them practically.
 
+
 ![Vivek github stats](https://github-readme-stats.vercel.app/api?username=viveksahu26)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksahu26)](https://github.com/viveksahu26/github-readme-stats)
