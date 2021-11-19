@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Vivek github stats](https://github-readme-stats.vercel.app/api?username=viveksahu26)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on contribution to open source projects.
