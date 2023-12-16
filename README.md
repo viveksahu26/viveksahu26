@@ -3,13 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 I'm final year engineering student from India.
-- 🔭 I’m currently working on contribution to open source projects.
-- 🌱 I’m currently learning about golang backend, and new tools.
-- 🤔 I’m looking for help with guide to become good at open source contribution and how to become good go developer.
+- 👨‍💻 I've completed my B.tech in ECE in year 2023.
+- 🔭 I wasn't much active with open source project for last 1 year.
+- 🤔 I’m looking forward to work with Supply chain security projects for contributions.
 - 💬 Ask me about  Linux, Docker, Kubernetes, Networking in OS+Containers+k8s.
 - 😄 Pronouns: His/Him
-- ⚡ Fun fact: I love to find something by my own.
+- ⚡ Fun fact: I convince myself with sudo.
 - 🔭 Looking for some good open source based startups based on Containers and Kubernetes to work on.
 
 ## ⚡ Blogs Contribution 📝
