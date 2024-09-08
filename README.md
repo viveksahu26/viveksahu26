@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🔭 Love to work with Open Source Supply Chain Projects.
 
 ## ⚡ Blogs Contribution 📝
+- [All Blogs](https://viveksahu26.substack.com/)
 - [Link](https://dev.to/viveksahu26/operating-system-os-with-32-bit-will-stop-working-after-19-january-1938-3g14) Operating System (OS) with 32 bit will stop working after 19 January 1938... 
 - [Link](https://dev.to/viveksahu26/how-kernel-boot-up--bje)How Kernel boot up ??
 - [Link](https://www.linkedin.com/pulse/what-happens-when-you-search-wwwgooglecom-vivek-kumar-sahu/)What happens when you search for www.google.com !!
@@ -25,6 +26,4 @@ Here are some ideas to get you started:
 
 
 ![Vivek github stats](https://github-readme-stats.vercel.app/api?username=viveksahu26)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksahu26&layout=compact)](https://github.com/viveksahu26/github-readme-stats)
 
