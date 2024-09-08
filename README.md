@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://github.com/viveksahu26/viveksahu26/blob/main/assets/Hi.gif" width="30">, I'm Vivek Sahu</h1>
-<h4 align="center">I'm a open source and Cloud-Native Enthusiast !! <img src="https://github.com/viveksahu26/viveksahu26/blob/master/assets/Developer.gif" width="35">‍ who is passionate about knowing  the internal of technologies workings. I :heart: open source!.</h4>
+<h4 align="center">I'm a open source enthusiast !! <img src="https://github.com/viveksahu26/viveksahu26/blob/master/assets/Developer.gif" width="35">‍ who is passionate about knowing the working of internals of technologies workings.</h4>
 
 Here are some ideas to get you started:
 
