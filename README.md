@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - [Link](https://dev.to/viveksahu26/kubernetes-part-1-1pja) Kubernetes Part-1 ??
 
 
-![Vivek github stats](https://github-readme-stats.vercel.app/api?username=viveksahu26)
+![Vivek GitHub stats](https://github-readme-stats.vercel.app/api?username=viveksahu26&show_icons=true&theme=tokyonight)
 
