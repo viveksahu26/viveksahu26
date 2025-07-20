@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Sometime convince myself with sudo.
 - 🔭 Love to work with Open Source Supply Chain Projects.
 
-## ⚡ Contribution to Software supply Chain security via SBOMs Tooling 📝
+## ⚡ Contribution to Software Supply Chain security via SBOMs Tooling 📝
 - [Build interlynk SBOMMV tool for automating the SBOMs transfer across different systems](https://github.com/interlynk-io/sbommv)
 - [Added OpenChain Telco Compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/261)
 - [Added NTIA-Minimum Element Compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/286)
@@ -45,3 +45,6 @@ Here are some ideas to get you started:
 - Switching to more fundamentals by reading more programming books, and system design, etc.
 - Attending conferences, give some interesting talks, networking with people of same field.
 - Lastly to be good human beings especially during my work.
+- Would be great to work under mentor with their projects who accomplished at least 50% the above.
+- Atleast 2029, will be in software supply chain security field.
+- More of purpose driven person.
