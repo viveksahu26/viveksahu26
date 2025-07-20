@@ -1,5 +1,15 @@
 <h1 align="center">Hello <img src="https://github.com/viveksahu26/viveksahu26/blob/main/assets/Hi.gif" width="30">, I'm Vivek...</h1>
-<h4 align="center">I'm a open source enthusiast !! <img src="https://github.com/viveksahu26/viveksahu26/blob/master/assets/Developer.gif" width="35">‍ who is passionate about knowing the working of internals of technologies workings.</h4>
+<h4 align="center">
+  I'm passionate about open-source software and securing it by actively contributing to improve software supply chain security, with a strong focus on SBOM (Software Bill of Materials) tooling like 
+  <a href="https://github.com/interlynk-io">OSS tooling</a> by 
+  <a href="https://www.interlynk.io/">Interlynk</a>. 
+  I contribute to and maintain several open-source projects like 
+  <a href="https://github.com/interlynk-io/sbommv">sbommv</a>, 
+  <a href="https://github.com/interlynk-io/sbomqs">sbomqs</a>, and 
+  <a href="https://github.com/interlynk-io/sbomasm">sbomasm</a>, 
+  and stay actively involved in the broader SBOM community.
+</h4>
+
 
 Here are some ideas to get you started:
 
@@ -9,21 +19,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Sometime convince myself with sudo.
 - 🔭 Love to work with Open Source Supply Chain Projects.
 
+## ⚡ Contribution to Software supply Chain secuirity via SBOMs Tooling 📝
+- [Build interlynk SBOMMV tool for automating the SBOMs transfer across different systems](https://github.com/interlynk-io/sbommv)
+- [Added OpenChain Telco Compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/261)
+- [Added NTIA-Minimum Element Compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/286)
+- [Added Framing Software Component Transparency(fsct) compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/324)
+- [Added BSI TR-03183-2 v2.0.0 compliance support in sbomqs tool](https://github.com/interlynk-io/sbomqs/issues/329)
+- [Added BSI-v1.1 and BSI-v2.0 soring support in sbomqs tool](https://github.com/interlynk-io/sbomqs/pull/433)
+- [Added missing relationship and external references for go-github library by google](https://github.com/google/go-github/pull/3582)
+
 ## ⚡ Blogs Contribution 📝
-- [All Blogs](https://viveksahu26.substack.com/)
-- [Link](https://dev.to/viveksahu26/operating-system-os-with-32-bit-will-stop-working-after-19-january-1938-3g14) Operating System (OS) with 32 bit will stop working after 19 January 1938... 
-- [Link](https://dev.to/viveksahu26/how-kernel-boot-up--bje)How Kernel boot up ??
-- [Link](https://www.linkedin.com/pulse/what-happens-when-you-search-wwwgooglecom-vivek-kumar-sahu/)What happens when you search for www.google.com !!
-- [Link](https://www.linkedin.com/pulse/basic-concept-networking-client-server-model-protocols-sahu/) Basic Concept of Networking: Client-Server Model, Protocols, Services, and PORT numbers.
-- [Link](https://dev.to/viveksahu26/github-action-d03) Github Action ??
-- [Link](https://dev.to/viveksahu26/linux-security-modules-4e3a) Linux Security Modules ??
-- [Link](https://dev.to/viveksahu26/beginners-guide-to-ebpf-4en3) Beginners guide to eBPF ??
-- [Link](https://dev.to/viveksahu26/osi-model-420f) OSI Model ??
-- [Link](https://dev.to/viveksahu26/how-to-begin-your-contribution-to-open-source-projects-kg0) How to begin your contribution to open source projects?
-- [Link](https://dev.to/viveksahu26/internship-at-nirmata-on-kyvernocncf-sanboxed-project-4b2c) Internship at Nirmata on Kyverno(CNCF Incubate project)...
-- [Link](https://dev.to/viveksahu26/kubernetes-for-beginners-basic-part-why-need-of-docker-k8-s-2bgf) Kubernetes for Beginners (basic part). Why need of Docker / K8's.....
-- [Link](https://dev.to/viveksahu26/kubernetes-part-1-1pja) Kubernetes Part-1 ??
+- [GitHub Releases are where SBOM's goto die](https://www.linkedin.com/pulse/github-releases-where-sboms-goto-die-vivek-kumar-sahu-etppc/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [sbomqs scoring support for BSI-1.1 and BSI-2.0 in a summarized way](https://www.linkedin.com/pulse/sbomqs-scoring-support-bsi-11-bsi-20-summarized-way-vivek-kumar-sahu-apc8c/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [Monitoring External GitHub Repos for SBOMs](https://www.linkedin.com/pulse/monitoring-external-github-repos-sboms-vivek-kumar-sahu-nxtzc/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [Modular SBOM Automation: Now with AWS S3 Support](https://www.linkedin.com/pulse/modular-sbom-automation-now-aws-s3-support-vivek-kumar-sahu-jahrc/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [What’s Missing in Your SBOM? sbomqs list can help you in inspecting...](https://www.linkedin.com/pulse/whats-missing-your-sbom-sbomqs-list-can-help-you-inspecting-sahu-e6rcc/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [Folder Monitoring: SBOM Automation That Never Sleeps 🕵️‍♂️](https://www.linkedin.com/pulse/folder-monitoring-sbom-automation-never-sleeps-vivek-kumar-sahu-fnwbc/?trackingId=UYDpfFq6QEO6iyfaqyAZlw%3D%3D)
+- [All Personal Blogs](https://viveksahu26.substack.com/)
 
-
-![Vivek GitHub stats](https://github-readme-stats.vercel.app/api?username=viveksahu26&show_icons=true&theme=tokyonight)
-
+## What am I aiming in the future
+- To become a good programmers by writting program by self instead of LLMs.
+- To become a good software Engineer by solving problems.
+- To make an impact of my work in the open source community.
+- Love to hang around great engineers, who are mostly found in OSS community.
+- Switching to more fundamentals by reading more programming books, and system design, etc.
+- Attending conferences, give some interesting talks, networking with people of same field. 
+- Lastly to be good human beings especially during my work.
