@@ -38,13 +38,9 @@ Here are some ideas to get you started:
 - [All Personal Blogs](https://viveksahu26.substack.com/)
 
 ## What am I aiming in the future
-- To become a good programmers by writting program by self instead of LLMs.
-- To become a good software Engineer by solving problems.
-- To make an impact of my work in the open source community.
-- Love to hang around great engineers, who are mostly found in OSS community.
+- To be a good programmers and problem solvers.
+- Man an impact with my work in the open source community and networking with people.
 - Switching to more fundamentals by reading more programming books, and system design, etc.
-- Attending conferences, give some interesting talks, networking with people of same field.
-- Lastly to be good human beings especially during my work.
-- Would be great to work under mentor with their projects who accomplished at least 50% the above.
-- Atleast 2029, will be in software supply chain security field.
+- Attending conferences and sharing knowledge via blogs and talks, etc.
+- Atleast till 2029, will be active in the software supply chain security field.
 - More of purpose driven person.
